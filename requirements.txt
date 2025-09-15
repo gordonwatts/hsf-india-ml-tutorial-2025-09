@@ -1,3 +1,4 @@
 jax
 jupyterlab
 matplotlib
+flax
